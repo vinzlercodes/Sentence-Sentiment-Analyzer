@@ -15,6 +15,9 @@ The project is trained on the **Sentiment140** dataset consisting of 16 million 
 
 ![NLP2](https://user-images.githubusercontent.com/34100245/82440054-5726a880-9ab9-11ea-9be4-c52d1b887326.PNG)
 
+**Incase the code is unable to process the data properly or you want a faster training process, Google colab is another great source,
+just upload the data in a folder on Google Drive and mount the Drive and aaply the same code with the Drive file path.**
+
 **3)** We can then visualise the dataset on how it looks
 
 ![NLP3](https://user-images.githubusercontent.com/34100245/82440482-02376200-9aba-11ea-8e72-6fd5e04302e6.PNG)
