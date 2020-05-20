@@ -66,11 +66,23 @@ The project is trained on the **Sentiment140** dataset consisting of 16 million 
 
 ![NLP15](https://user-images.githubusercontent.com/34100245/82460674-16d62300-9ad7-11ea-93e2-8893d67a054d.PNG)
 
-**15)** We then finally call the training **fit()** function and execute the training of our model (***the training will take a long time so I suggest taking a break***) The first 2 epochs are showcased for refernce
+**15)** We then finally call the training **fit()** function and execute the training of our model (***the training will take a long time so I suggest taking a break***) The first 2 epochs are showcased for refernce. The final accuracy reached was ~96%
 
 ![NLP16](https://user-images.githubusercontent.com/34100245/82461138-b398c080-9ad7-11ea-920f-5a8a125a83bf.PNG)
 
 ![NLP17](https://user-images.githubusercontent.com/34100245/82461175-bf848280-9ad7-11ea-9563-c2cdc60ff7b5.PNG)
+
+**16)** We then apply this trained model to the testing data set to see its testing accuarcy 
+
+![NLP18](https://user-images.githubusercontent.com/34100245/82462533-5271ec80-9ad9-11ea-82e5-2f7a6e51fb77.PNG)
+
+**17)** Finally we test it on user input messages
+
+![NLP19](https://user-images.githubusercontent.com/34100245/82463312-4dfa0380-9ada-11ea-8c06-2653096f2529.PNG)
+
+![NLP20](https://user-images.githubusercontent.com/34100245/82463351-5b16f280-9ada-11ea-9d1c-295f95fe62c6.PNG)
+
+
 
 
 
