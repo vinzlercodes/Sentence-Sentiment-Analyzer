@@ -39,5 +39,11 @@ The project is trained on the **Sentiment140** dataset consisting of 16 million 
 
 ![NLP8](https://user-images.githubusercontent.com/34100245/82445626-c785f780-9ac2-11ea-9810-479cd5a15421.PNG)
 
-**9)** 
+**9)** We then define the maximum length of each input and make sure that they are all the same length for proper processing and training and if the lengths are smaller as compared add null value (0s) at the end to increase the lengths
+
+![NLP9](https://user-images.githubusercontent.com/34100245/82449709-45e59800-9ac9-11ea-9070-37e114298daa.PNG)
+
+
+
+
 
