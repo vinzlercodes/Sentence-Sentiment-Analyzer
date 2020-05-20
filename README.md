@@ -85,6 +85,10 @@ The project is trained on the **Sentiment140** dataset consisting of 16 million 
 
 
 
+If you like the work and my methodology please do leave a review and a star.
+
+***Thank You***
+
 
 
 
