@@ -43,6 +43,36 @@ The project is trained on the **Sentiment140** dataset consisting of 16 million 
 
 ![NLP9](https://user-images.githubusercontent.com/34100245/82449709-45e59800-9ac9-11ea-9070-37e114298daa.PNG)
 
+**10)** We then split our main dataset into a training and testing datasets with those specific labels. Since in the dataset the positive and negative comments are split 50-50 we have to append first half of the positives and negatives into the testing set so that when run it can identify between the 2. We then remove the **testing dataset** values and append the rest of the positive and negative values for the **training set** .
+
+![NLP10](https://user-images.githubusercontent.com/34100245/82452812-6152a200-9acd-11ea-8da2-07f3a9fc7308.PNG)
+
+**11)** We then finally design our CNN model
+
+![NLP11](https://user-images.githubusercontent.com/34100245/82457629-471bc280-9ad3-11ea-8799-74b5e4ad33d2.PNG)
+
+![NLP12](https://user-images.githubusercontent.com/34100245/82457702-5bf85600-9ad3-11ea-90c3-5643689d32fb.PNG)
+
+**12)** We then configure our training variables of the **Embedding Dimensions** , **Number of Filters** , **Fully Connected Nodes** and 
+**Number of Classes** ,  also the **Droput Rate** . We also then mention the **Number of Epochs** and also the **Batch Size**
+
+![NLP13](https://user-images.githubusercontent.com/34100245/82459042-12106f80-9ad5-11ea-9625-9ca4582138f3.PNG)
+
+**13)** We then feed the above configurations into the training class
+
+![NLP14](https://user-images.githubusercontent.com/34100245/82460227-8bf52880-9ad6-11ea-8dc8-f22cf153370e.PNG)
+
+**14)** We then compile the model for 2 cases: for both **Binary and Multi Class Classifications** . We also define a file path where we can save our model trained weights to use later without having to train all over again
+
+![NLP15](https://user-images.githubusercontent.com/34100245/82460674-16d62300-9ad7-11ea-93e2-8893d67a054d.PNG)
+
+**15)** We then finally call the training **fit()** function and execute the training of our model (***the training will take a long time so I suggest taking a break***) The first 2 epochs are showcased for refernce
+
+![NLP16](https://user-images.githubusercontent.com/34100245/82461138-b398c080-9ad7-11ea-920f-5a8a125a83bf.PNG)
+
+![NLP17](https://user-images.githubusercontent.com/34100245/82461175-bf848280-9ad7-11ea-9563-c2cdc60ff7b5.PNG)
+
+
 
 
 
