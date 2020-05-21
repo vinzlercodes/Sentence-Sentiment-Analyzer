@@ -2,7 +2,7 @@ The NLP system is based on the **Skip-Gram Model** for Word2Vec methodology. We 
 
 A 1D Convolution Neural Network is used for modelling of the NLP system.
 
-The project is trained on the **Sentiment140** dataset consisting of 16 million tweets which can found [here](http://help.sentiment140.com/for-students).
+The project is trained on the **Sentiment140** dataset consisting of 160,000 tweets which can found [here](http://help.sentiment140.com/for-students).
 
 **Implementation**:
 
