@@ -85,13 +85,11 @@ just upload the data in a folder on Google Drive and mount the Drive and aaply t
 
 ![NLP20](https://user-images.githubusercontent.com/34100245/82463351-5b16f280-9ada-11ea-9d1c-295f95fe62c6.PNG)
 
+---
 
+If you do find this repository useful, why not give a star and even let me know about it!
 
-
-If you like the work and my methodology please do leave a review and a star.
-
-***Thank You***
-
+Feel free to express issues and feedback as well, cheers!
 
 
 
